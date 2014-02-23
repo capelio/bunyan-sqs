@@ -1,6 +1,6 @@
 {
   "name": "bunyan-sqs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stream node-bunyan logs to a SQS queue",
   "main": "lib/index.js",
   "scripts": {
