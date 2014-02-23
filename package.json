@@ -21,8 +21,7 @@
   "author": "C. Corey Capel <corey@capelio.com> (http://www.capelio.com/)",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.0.0-rc9",
-    "async": "^0.2.10"
+    "aws-sdk": "^2.0.0-rc9"
   },
   "devDependencies": {
     "tape": "^2.5.0",
