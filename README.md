@@ -21,7 +21,7 @@ npm test
 
 # Example
 
-```
+``` js
 var bunyan = require('bunyan');
 var bunyanSqs = require('bunyan-sqs');
 
