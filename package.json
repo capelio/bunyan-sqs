@@ -1,0 +1,31 @@
+{
+  "name": "bunyan-sqs",
+  "version": "0.0.0",
+  "description": "Stream node-bunyan logs to a SQS queue",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "faucet"
+  },
+  "keywords": [
+    "bunyan",
+    "log",
+    "logs",
+    "logging",
+    "sqs",
+    "aws"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/capelio/bunyan-sqs"
+  },
+  "author": "C. Corey Capel <corey@capelio.com> (http://www.capelio.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.0.0-rc9",
+    "async": "^0.2.10"
+  },
+  "devDependencies": {
+    "tape": "^2.5.0",
+    "faucet": "0.0.1"
+  }
+}
